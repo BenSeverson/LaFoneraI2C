@@ -1,9 +1,0 @@
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest2 /mnt/smbshare/test2.c
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest1 /mnt/smbshare/test1.c 
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest2 /mnt/smbshare/test2.c
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest2 /mnt/smbshare/test2.c
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest2 /mnt/smbshare/test2.c
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest2 /mnt/smbshare/test2.c
-laptop bin # ./mipsel-linux-gcc -O2 -o /mnt/smbshare/i2ctest1 /mnt/smbshare/test1.c 
-laptop bin # pwd
-/root/whiterussian/openwrt/staging_dir_mipsel/bin

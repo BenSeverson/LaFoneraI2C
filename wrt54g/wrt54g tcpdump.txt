@@ -1,2 +1,0 @@
-C:\Documents and Settings\ben\Desktop>plink -ssh -l root -pw password 192.168.2.1
-"/usr/sbin/tcpdump not port 22 -i br0 -s 0 -U -n -w -" > testcap

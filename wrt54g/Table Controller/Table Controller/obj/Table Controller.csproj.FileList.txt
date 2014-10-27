@@ -1,9 +1,0 @@
-bin\Debug\Table Controller.exe
-bin\Debug\Table Controller.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\Table_Controller.Form1.resources
-obj\Debug\Table_Controller.Properties.Resources.resources
-obj\Debug\Table Controller.csproj.GenerateResource.Cache
-obj\Debug\Table Controller.exe
-obj\Debug\Table Controller.pdb
-obj\Debug\Table_Controller.TableColorPicker.resources
